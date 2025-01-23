@@ -1,8 +1,5 @@
 # Conference Room Booking App
 
-## Overview
-The Conference Room Booking App for Webskitters Technology Solutions Pvt. Ltd. is a mobile application designed to facilitate seamless booking of conference rooms and meeting pods. The app ensures optimal resource utilization, supports recurring meetings, provides intelligent room recommendations, and allows admins to manage bookings effectively.
-
 ---
 
 ## Features
